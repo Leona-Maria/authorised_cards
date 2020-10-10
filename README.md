@@ -1,5 +1,5 @@
 # authorised_cards
-A card game with login for authorised players - run Batch file
+A card game with login for authorised players - run .bat file
 1.	Allows two players to enter their details, which are authenticated to make sure that they are authorised players.
 2.	Shuffles 30 cards in a deck.
 3.	Allows each player to take a card from the top of the deck until there are no cards left in the deck.
